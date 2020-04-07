@@ -1,11 +1,11 @@
 import React from "react";
-import Clock from "./Clock";
+import Container from "./Container";
 import "./styles.css";
 
 export default function App() {
   return (
     <div className="App">
-      <Clock />
+      <Container />
     </div>
   );
 }
